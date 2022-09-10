@@ -34,8 +34,6 @@
           "aboutUpdateURL": "https://support.apple.com/de-de/HT211896"
         }
       ],
-      "actionButtonPath": "munki://updates",
-      "majorUpgradeAppPath": "/Applications/Install macOS Big Sur.app",
       "requiredInstallationDate": "2022-08-28T00:00:00Z",
       "requiredMinimumOSVersion": "12.5.2",
       "targetedOSVersionsRule": "default"
