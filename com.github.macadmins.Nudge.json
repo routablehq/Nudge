@@ -36,8 +36,8 @@
       ],
       "actionButtonPath": "munki://updates",
       "majorUpgradeAppPath": "/Applications/Install macOS Big Sur.app",
-      "requiredInstallationDate": "2021-08-28T00:00:00Z",
-      "requiredMinimumOSVersion": "11.5.2",
+      "requiredInstallationDate": "2022-08-28T00:00:00Z",
+      "requiredMinimumOSVersion": "12.5.2",
       "targetedOSVersionsRule": "default"
     }
   ],
