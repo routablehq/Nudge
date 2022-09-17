@@ -16,7 +16,7 @@
   "osVersionRequirements": [
     {
       "requiredInstallationDate": "2022-09-12T00:00:00Z",
-      "requiredMinimumOSVersion": "12.5.2",
+      "requiredMinimumOSVersion": "12.6",
       "targetedOSVersionsRule": "default"
     }
   ],
