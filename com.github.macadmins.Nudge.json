@@ -2,8 +2,8 @@
   "optionalFeatures": {
     "acceptableApplicationBundleIDs": [],
     "acceptableAssertionUsage": false,
-    "acceptableCameraUsage": false,
-    "acceptableScreenSharingUsage": false,
+    "acceptableCameraUsage": true,
+    "acceptableScreenSharingUsage": true,
     "aggressiveUserExperience": true,
     "aggressiveUserFullScreenExperience": true,
     "asynchronousSoftwareUpdate": true,
@@ -15,7 +15,7 @@
   },
   "osVersionRequirements": [
     {
-      "requiredInstallationDate": "2022-09-12T00:00:00Z",
+      "requiredInstallationDate": "2022-09-30T00:00:00Z",
       "requiredMinimumOSVersion": "12.6",
       "targetedOSVersionsRule": "default"
     }
