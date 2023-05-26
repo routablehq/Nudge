@@ -28,7 +28,7 @@
     "approachingRefreshCycle": 6000,
     "approachingWindowTime": 72,
     "elapsedRefreshCycle": 300,
-    "gracePeriodInstallDelay": 23,
+    "gracePeriodInstallDelay": 45,
     "gracePeriodLaunchDelay": 1,
     "gracePeriodPath": "/private/var/db/.AppleSetupDone",
     "imminentRefreshCycle": 600,
